@@ -1,7 +1,4 @@
 <?php
-//test
-//test2
-//test3
 
 //Edit made in vs code
 //This is a second edit made in vs code
